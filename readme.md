@@ -1,0 +1,1 @@
+Practice project in order to get more familar with the C language.
